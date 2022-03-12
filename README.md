@@ -5,9 +5,9 @@
 
 - E-mail: **akshayaparida2811@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://twitter.com/@akparida2811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@akparida2811" height="30" width="40" /></a>
+<a href="https://twitter.com/https://twitter.com/akparida2811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/akparida2811" height="20" width="20" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
