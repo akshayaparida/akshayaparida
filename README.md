@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akshaya Parida</h1>
+<h1 align="center">Hi, I'm Akshaya Parida</h1>
 
 - I’m currently learning **Fullstack JavaScript.**
 
