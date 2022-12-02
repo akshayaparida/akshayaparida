@@ -2,8 +2,6 @@
 
 - I’m currently learning **Fullstack JavaScript.**
 
-- E-mail: **akshayaparida2811@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/akparida2811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akparida2811" height="30" width="40" /></a>
